@@ -1,5 +1,7 @@
 # Unity - VR Room
 
+![com DefaultCompany vr_room-20210624-170851](https://user-images.githubusercontent.com/56147649/123342059-accb5100-d514-11eb-8a58-82afb3930de8.jpg)
+
 ### What is this?
 A VR escape room created as a project for [Holberton School](https://www.holbertonschool.com/). An [escape room](https://en.wikipedia.org/wiki/Escape_room) is a type of puzzle game in which players have to solve problems in a sequence to escape from a room they are trapped in.
 
@@ -81,3 +83,13 @@ Objective:
 ### Challenges
 - Getting the different features like teleport and joystick movement to work together.
 - Testing without full deployment. Test runs behaved different from full deployment, but full deployment takes too long for small changes.
+
+### Known Bugs
+- The teleport feature throws the player the opposite direction. I have figured out why and implemented a fix, but the fix only seems to work on PC.
+- UI interaction (such as the console in the first room) does not work on PC.
+- Placing the ID card on the podeum is difficult due to physics interactions.
+
+## Developers
+### Sean Taylor
+- LinkedIn: [Sean Taylor](https://www.linkedin.com/in/madmansilver/)
+- Twitter: [@MadmanSilver](https://www.linkedin.com/in/madmansilver/)

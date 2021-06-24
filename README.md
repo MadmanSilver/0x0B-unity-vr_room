@@ -92,4 +92,4 @@ Objective:
 ## Developers
 ### Sean Taylor
 - LinkedIn: [Sean Taylor](https://www.linkedin.com/in/madmansilver/)
-- Twitter: [@MadmanSilver](https://www.linkedin.com/in/madmansilver/)
+- Twitter: [@MadmanSilver](https://twitter.com/MadmanSilver)

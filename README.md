@@ -8,10 +8,7 @@ A VR escape room created as a project for [Holberton School](https://www.holbert
 ### Why?
 This project was intended to familiarize ourselves with VR tools and concepts required to create interactive experiences. Examples include locomotion styles and grabbing objects.
 
-### Requirements of project
-- Unity 2019.*
-
-### How to use
+### How to install
 Method 1 (recommended, Oculus Quest 2):
 1. Download a build of the game from [here.](https://drive.google.com/file/d/1FkaOqmpVFWPQtQkBaz1FZhMZ32W9GTx8/view?usp=sharing)
 2. Sideload the game onto an Oculus Quest 2 device by any means of your choice. [SideQuest](https://sidequestvr.com/) is a popular option.

@@ -12,7 +12,7 @@ This project was intended to familiarize ourselves with VR tools and concepts re
 Method 1 (recommended, Oculus Quest 2):
 1. Download a build of the game from [here.](https://drive.google.com/file/d/1FkaOqmpVFWPQtQkBaz1FZhMZ32W9GTx8/view?usp=sharing)
 2. Sideload the game onto an Oculus Quest 2 device by any means of your choice. [SideQuest](https://sidequestvr.com/) is a popular option.
-3. In your headset, navigate to the 'Unknown Developer' section of your apps.
+3. In your headset, navigate to the 'Unknown Source' section of your apps.
 4. Launch the game and enjoy!
 
 Method 2 (compatibility not guaranteed, any VR device):
